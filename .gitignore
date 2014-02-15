@@ -11,3 +11,6 @@
 *.lai
 *.la
 *.a
+
+# XCode files
+cppzapoctova.1
