@@ -1,0 +1,4 @@
+Stack-machine
+=============
+
+Zásobníkový stroj
